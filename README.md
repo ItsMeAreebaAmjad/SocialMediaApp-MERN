@@ -5,6 +5,11 @@ A full-featured social media application built using the MERN stack. Users can c
 ## Video of Application
 you can view the demo video.It is uploaded with the code.
 
+## Images of Application
+Here is the home page in both the light mode and dark mode.
+
+<img src="">
+
 ## Features
 
 - **User Authentication**: Secure login and registration using JWT.
