@@ -8,7 +8,7 @@ you can view the demo video.It is uploaded with the code.
 ## Images of Application
 Here is the home page in both the light mode and dark mode.
 
-<img src="">
+<img src="https://github.com/ItsMeAreebaAmjad/SocialMediaApp-MERN/blob/main/image1.png">
 
 ## Features
 
