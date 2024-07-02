@@ -9,6 +9,8 @@ you can view the demo video.It is uploaded with the code.
 Here is the home page in both the light mode and dark mode.
 
 <img src="https://github.com/ItsMeAreebaAmjad/SocialMediaApp-MERN/blob/main/image1.png">
+<img src="https://github.com/ItsMeAreebaAmjad/SocialMediaApp-MERN/blob/main/image1.png">
+<img src="https://github.com/ItsMeAreebaAmjad/SocialMediaApp-MERN/blob/main/image1.png">
 
 ## Features
 
