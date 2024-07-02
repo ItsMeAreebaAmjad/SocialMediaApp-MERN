@@ -1,0 +1,47 @@
+# Social Media Application
+
+A full-featured social media application built using the MERN stack. Users can create, update, and delete posts, follow and unfollow each other, like and dislike posts, and comment on posts. The application also supports both light and dark modes.
+
+## Demo Video
+
+Watch the demo video to see the application in action:
+
+[![Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+
+## Features
+
+- **User Authentication**: Secure login and registration using JWT.
+- **CRUD Operations**: Create, Read, Update, Delete posts.
+- **Social Interactions**: Follow/Unfollow users, Like/Dislike posts, Comment on posts.
+- **Themes**: Light and Dark mode for an enhanced user experience.
+
+## Tech Stack
+
+### Frontend
+
+- **React**: For building user interfaces.
+- **React Router**: For navigation between different views.
+- **Formik + Yup**: For form handling and validation.
+- **Redux Toolkit**: For state management.
+- **Redux Persist**: To persist Redux state across sessions.
+
+### Backend
+
+- **Node.js**: JavaScript runtime environment.
+- **Express**: Web framework for Node.js.
+- **Mongoose**: MongoDB object modeling tool.
+- **JWT (JSON Web Tokens)**: For secure authentication.
+- **Multer**: For handling file uploads.
+
+## Installation
+
+### Prerequisites
+
+- **Node.js**: Ensure you have Node.js installed on your system.
+- **MongoDB**: Set up a MongoDB database.
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/yourusername/social-media-app.git
+cd social-media-app
