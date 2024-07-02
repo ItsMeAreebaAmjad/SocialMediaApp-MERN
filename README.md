@@ -4,9 +4,6 @@ A full-featured social media application built using the MERN stack. Users can c
 
 ## Images of Application
 
-
-[![Demo Video](https://github.com/ItsMeAreebaAmjad/SocialMediaApp-MERN/blob/main/demoVideo.mp4)]
-
 ## Features
 
 - **User Authentication**: Secure login and registration using JWT.
