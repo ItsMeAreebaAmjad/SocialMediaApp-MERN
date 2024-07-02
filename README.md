@@ -2,7 +2,8 @@
 
 A full-featured social media application built using the MERN stack. Users can create, update, and delete posts, follow and unfollow each other, like and dislike posts, and comment on posts. The application also supports both light and dark modes.
 
-## Images of Application
+## Video of Application
+you can view the demo video.It is uploaded with the code.
 
 ## Features
 
