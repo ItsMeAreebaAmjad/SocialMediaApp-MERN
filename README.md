@@ -6,7 +6,7 @@ A full-featured social media application built using the MERN stack. Users can c
 
 Watch the demo video to see the application in action:
 
-[![Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Demo Video](https://github.com/ItsMeAreebaAmjad/SocialMediaApp-MERN/blob/main/demoVideo.mp4)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
 ## Features
 
